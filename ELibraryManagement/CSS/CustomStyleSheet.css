@@ -1,0 +1,14 @@
+﻿.footerlinks{
+    color:azure;
+    text-decoration:none;
+}
+.footerlinks:hover{
+    color:yellow;
+    text-decoration:none;
+}
+#footer1{
+    background-color:saddlebrown;
+}
+#footer2{
+    background-color:brown;
+}
